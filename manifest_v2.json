@@ -6,8 +6,8 @@
     "description": "好玩的跳一跳来喽~   交流群:975091865\n注意:9/10/11若出现自适应屏幕失败的情况,操控游戏失败后点再来一次即可",
     "preview": [
       "media/xiaomi_band_pro-2026-10-23-23-47-51.png",
-      "media/xiaomi_band_pro-2026-10-24-20-00-33.png",
       "media/xiaomi_band_10-2026-10-25-13-27-44.png",
+      "media/xiaomi_band_pro-2026-10-24-20-00-33.png",
       "media/xiaomi_band_10-2026-10-25-13-28-03.png"
     ],
     "icon": "media/logo.png",
@@ -22,39 +22,39 @@
   "links": [],
   "downloads": {
     "xmb10": {
-      "version": "1.2.7",
-      "file_name": "downloads/com.jump.tfdc.release.1.2.7.rpk",
-      "versionCode": 11
+      "version": "1.2.8",
+      "file_name": "downloads/com.jump.tfdc.release.1.2.8.rpk",
+      "versionCode": 12
     },
     "xmb10nfc": {
-      "version": "1.2.7",
-      "file_name": "downloads/com.jump.tfdc.release.1.2.7.rpk",
-      "versionCode": 11
+      "version": "1.2.8",
+      "file_name": "downloads/com.jump.tfdc.release.1.2.8.rpk",
+      "versionCode": 12
     },
     "xmb10p": {
-      "version": "1.2.7",
-      "file_name": "downloads/com.jump.tfdc.release.1.2.7.rpk",
-      "versionCode": 11
+      "version": "1.2.8",
+      "file_name": "downloads/com.jump.tfdc.release.1.2.8.rpk",
+      "versionCode": 12
     },
     "xmb11": {
-      "version": "1.2.7",
-      "file_name": "downloads/com.jump.tfdc.release.1.2.7.rpk",
-      "versionCode": 11
+      "version": "1.2.8",
+      "file_name": "downloads/com.jump.tfdc.release.1.2.8.rpk",
+      "versionCode": 12
     },
     "xmb11nfc": {
-      "version": "1.2.7",
-      "file_name": "downloads/com.jump.tfdc.release.1.2.7.rpk",
-      "versionCode": 11
+      "version": "1.2.8",
+      "file_name": "downloads/com.jump.tfdc.release.1.2.8.rpk",
+      "versionCode": 12
     },
     "xmb9": {
-      "version": "1.2.7",
-      "file_name": "downloads/com.jump.tfdc.release.1.2.7.rpk",
-      "versionCode": 11
+      "version": "1.2.8",
+      "file_name": "downloads/com.jump.tfdc.release.1.2.8.rpk",
+      "versionCode": 12
     },
     "xmb9p": {
-      "version": "1.2.7",
-      "file_name": "downloads/com.jump.tfdc.release.1.2.7.rpk",
-      "versionCode": 11
+      "version": "1.2.8",
+      "file_name": "downloads/com.jump.tfdc.release.1.2.8.rpk",
+      "versionCode": 12
     }
   },
   "ext": {}
