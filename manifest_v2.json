@@ -23,8 +23,8 @@
   "downloads": {
     "xmb10": {
       "version": "1.6.4",
-      "file_name": "downloads/com.jump.tfdc.debug.1.6.4.rpk",
-      "versionCode": 22,
+      "file_name": "downloads/com.jump.tfdc.release.1.6.4.rpk",
+      "versionCode": 24,
       "updatelogs": [
         {
           "version": "1.6.4",
@@ -34,8 +34,8 @@
     },
     "xmb10nfc": {
       "version": "1.6.4",
-      "file_name": "downloads/com.jump.tfdc.debug.1.6.4.rpk",
-      "versionCode": 22,
+      "file_name": "downloads/com.jump.tfdc.release.1.6.4.rpk",
+      "versionCode": 24,
       "updatelogs": [
         {
           "version": "1.6.4",
@@ -45,8 +45,8 @@
     },
     "xmb10p": {
       "version": "1.6.4",
-      "file_name": "downloads/com.jump.tfdc.debug.1.6.4.rpk",
-      "versionCode": 22,
+      "file_name": "downloads/com.jump.tfdc.release.1.6.4.rpk",
+      "versionCode": 24,
       "updatelogs": [
         {
           "version": "1.6.4",
@@ -56,8 +56,8 @@
     },
     "xmb11": {
       "version": "1.6.4",
-      "file_name": "downloads/com.jump.tfdc.debug.1.6.4.rpk",
-      "versionCode": 22,
+      "file_name": "downloads/com.jump.tfdc.release.1.6.4.rpk",
+      "versionCode": 24,
       "updatelogs": [
         {
           "version": "1.6.4",
@@ -67,8 +67,8 @@
     },
     "xmb11nfc": {
       "version": "1.6.4",
-      "file_name": "downloads/com.jump.tfdc.debug.1.6.4.rpk",
-      "versionCode": 22,
+      "file_name": "downloads/com.jump.tfdc.release.1.6.4.rpk",
+      "versionCode": 24,
       "updatelogs": [
         {
           "version": "1.6.4",
@@ -78,8 +78,8 @@
     },
     "xmb9": {
       "version": "1.6.4",
-      "file_name": "downloads/com.jump.tfdc.debug.1.6.4.rpk",
-      "versionCode": 22,
+      "file_name": "downloads/com.jump.tfdc.release.1.6.4.rpk",
+      "versionCode": 24,
       "updatelogs": [
         {
           "version": "1.6.4",
@@ -89,8 +89,8 @@
     },
     "xmb9p": {
       "version": "1.6.4",
-      "file_name": "downloads/com.jump.tfdc.debug.1.6.4.rpk",
-      "versionCode": 22,
+      "file_name": "downloads/com.jump.tfdc.release.1.6.4.rpk",
+      "versionCode": 24,
       "updatelogs": [
         {
           "version": "1.6.4",
@@ -100,8 +100,8 @@
     },
     "xmrw5": {
       "version": "1.6.4",
-      "file_name": "downloads/com.jump.tfdc.debug.1.6.4.rpk",
-      "versionCode": 22,
+      "file_name": "downloads/com.jump.tfdc.release.1.6.4.rpk",
+      "versionCode": 24,
       "updatelogs": [
         {
           "version": "1.6.4",
@@ -111,8 +111,8 @@
     },
     "xmrw5xring": {
       "version": "1.6.4",
-      "file_name": "downloads/com.jump.tfdc.debug.1.6.4.rpk",
-      "versionCode": 22,
+      "file_name": "downloads/com.jump.tfdc.release.1.6.4.rpk",
+      "versionCode": 24,
       "updatelogs": [
         {
           "version": "1.6.4",
@@ -122,8 +122,8 @@
     },
     "xmrw6": {
       "version": "1.6.4",
-      "file_name": "downloads/com.jump.tfdc.debug.1.6.4.rpk",
-      "versionCode": 22,
+      "file_name": "downloads/com.jump.tfdc.release.1.6.4.rpk",
+      "versionCode": 24,
       "updatelogs": [
         {
           "version": "1.6.4",
