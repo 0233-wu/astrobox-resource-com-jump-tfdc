@@ -21,113 +21,113 @@
   },
   "links": [],
   "downloads": {
-    "xmb10": {
-      "version": "1.6.4",
-      "file_name": "downloads/com.jump.tfdc.release.1.6.4.rpk",
-      "versionCode": 24,
-      "updatelogs": [
-        {
-          "version": "1.6.4",
-          "content": "1,加入空翻\n2,加入多皮肤\n3,加入渲染2方块选项"
-        }
-      ]
-    },
-    "xmb10nfc": {
-      "version": "1.6.4",
-      "file_name": "downloads/com.jump.tfdc.release.1.6.4.rpk",
-      "versionCode": 24,
-      "updatelogs": [
-        {
-          "version": "1.6.4",
-          "content": "1,加入空翻\n2,加入多皮肤\n3,加入渲染2方块选项"
-        }
-      ]
-    },
-    "xmb10p": {
-      "version": "1.6.4",
-      "file_name": "downloads/com.jump.tfdc.release.1.6.4.rpk",
-      "versionCode": 24,
-      "updatelogs": [
-        {
-          "version": "1.6.4",
-          "content": "1,加入空翻\n2,加入多皮肤\n3,加入渲染2方块选项"
-        }
-      ]
-    },
-    "xmb11": {
-      "version": "1.6.4",
-      "file_name": "downloads/com.jump.tfdc.release.1.6.4.rpk",
-      "versionCode": 24,
-      "updatelogs": [
-        {
-          "version": "1.6.4",
-          "content": "1,加入空翻\n2,加入多皮肤\n3,加入渲染2方块选项"
-        }
-      ]
-    },
-    "xmb11nfc": {
-      "version": "1.6.4",
-      "file_name": "downloads/com.jump.tfdc.release.1.6.4.rpk",
-      "versionCode": 24,
-      "updatelogs": [
-        {
-          "version": "1.6.4",
-          "content": "1,加入空翻\n2,加入多皮肤\n3,加入渲染2方块选项"
-        }
-      ]
-    },
-    "xmb9": {
-      "version": "1.6.4",
-      "file_name": "downloads/com.jump.tfdc.release.1.6.4.rpk",
-      "versionCode": 24,
-      "updatelogs": [
-        {
-          "version": "1.6.4",
-          "content": "1,加入空翻\n2,加入多皮肤\n3,加入渲染2方块选项"
-        }
-      ]
-    },
-    "xmb9p": {
-      "version": "1.6.4",
-      "file_name": "downloads/com.jump.tfdc.release.1.6.4.rpk",
-      "versionCode": 24,
-      "updatelogs": [
-        {
-          "version": "1.6.4",
-          "content": "1,加入空翻\n2,加入多皮肤\n3,加入渲染2方块选项"
-        }
-      ]
-    },
     "xmrw5": {
       "version": "1.6.4",
       "file_name": "downloads/com.jump.tfdc.release.1.6.4.rpk",
-      "versionCode": 24,
+      "versionCode": 22,
       "updatelogs": [
         {
           "version": "1.6.4",
-          "content": "1,加入空翻\n2,加入多皮肤\n3,加入渲染2方块选项"
+          "content": "加入空翻动画\n加入皮肤\n加入只渲染2方块选项"
         }
       ]
     },
     "xmrw5xring": {
       "version": "1.6.4",
       "file_name": "downloads/com.jump.tfdc.release.1.6.4.rpk",
-      "versionCode": 24,
+      "versionCode": 22,
       "updatelogs": [
         {
           "version": "1.6.4",
-          "content": "1,加入空翻\n2,加入多皮肤\n3,加入渲染2方块选项"
+          "content": "加入空翻动画\n加入皮肤\n加入只渲染2方块选项"
         }
       ]
     },
     "xmrw6": {
       "version": "1.6.4",
       "file_name": "downloads/com.jump.tfdc.release.1.6.4.rpk",
-      "versionCode": 24,
+      "versionCode": 22,
       "updatelogs": [
         {
           "version": "1.6.4",
-          "content": "1,加入空翻\n2,加入多皮肤\n3,加入渲染2方块选项"
+          "content": "加入空翻动画\n加入皮肤\n加入只渲染2方块选项"
+        }
+      ]
+    },
+    "xmb10nfc": {
+      "version": "1.6.4",
+      "file_name": "downloads/com.jump.tfdc.release.1.6.4.rpk",
+      "versionCode": 22,
+      "updatelogs": [
+        {
+          "version": "1.6.4",
+          "content": "加入空翻动画\n加入皮肤\n加入只渲染2方块选项"
+        }
+      ]
+    },
+    "xmb10": {
+      "version": "1.6.4",
+      "file_name": "downloads/com.jump.tfdc.release.1.6.4.rpk",
+      "versionCode": 22,
+      "updatelogs": [
+        {
+          "version": "1.6.4",
+          "content": "加入空翻动画\n加入皮肤\n加入只渲染2方块选项"
+        }
+      ]
+    },
+    "xmb10p": {
+      "version": "1.6.4",
+      "file_name": "downloads/com.jump.tfdc.release.1.6.4.rpk",
+      "versionCode": 22,
+      "updatelogs": [
+        {
+          "version": "1.6.4",
+          "content": "加入空翻动画\n加入皮肤\n加入只渲染2方块选项"
+        }
+      ]
+    },
+    "xmb11": {
+      "version": "1.6.4",
+      "file_name": "downloads/com.jump.tfdc.release.1.6.4.rpk",
+      "versionCode": 22,
+      "updatelogs": [
+        {
+          "version": "1.6.4",
+          "content": "加入空翻动画\n加入皮肤\n加入只渲染2方块选项"
+        }
+      ]
+    },
+    "xmb11nfc": {
+      "version": "1.6.4",
+      "file_name": "downloads/com.jump.tfdc.release.1.6.4.rpk",
+      "versionCode": 22,
+      "updatelogs": [
+        {
+          "version": "1.6.4",
+          "content": "加入空翻动画\n加入皮肤\n加入只渲染2方块选项"
+        }
+      ]
+    },
+    "xmb9": {
+      "version": "1.6.4",
+      "file_name": "downloads/com.jump.tfdc.release.1.6.4.rpk",
+      "versionCode": 22,
+      "updatelogs": [
+        {
+          "version": "1.6.4",
+          "content": "加入空翻动画\n加入皮肤\n加入只渲染2方块选项"
+        }
+      ]
+    },
+    "xmb9p": {
+      "version": "1.6.4",
+      "file_name": "downloads/com.jump.tfdc.release.1.6.4.rpk",
+      "versionCode": 22,
+      "updatelogs": [
+        {
+          "version": "1.6.4",
+          "content": "加入空翻动画\n加入皮肤\n加入只渲染2方块选项"
         }
       ]
     }
