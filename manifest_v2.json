@@ -3,7 +3,7 @@
     "id": "com.jump.tfdc",
     "restype": "quick_app",
     "name": "跳一跳",
-    "description": "好玩的跳一跳来喽~   交流群:975091865\n注意:9/10/11若出现自适应屏幕失败的情况,操控游戏失败后点再来一次即可",
+    "description": "好玩的跳一跳来喽~   交流群:975091865 觉得好玩不妨赞助我一点~  这将支持我继续更新~",
     "preview": [
       "media/页面 1.png",
       "media/xiaomi_band_pro-2026-11-02-22-04-57.png",
@@ -23,10 +23,14 @@
   "links": [],
   "downloads": {
     "xmrw5": {
-      "version": "1.7.0",
-      "file_name": "downloads/com.jump.tfdc.release.1.7.0.rpk",
-      "versionCode": 25,
+      "version": "1.8.3",
+      "file_name": "downloads/com.jump.tfdc.release.1.8.3.rpk",
+      "versionCode": 29,
       "updatelogs": [
+        {
+          "version": "1.8.3",
+          "content": "放大了暂停按钮\n修复了9/10/11初次打开显示异常的问题\n尝试优化\ntips:若开启空翻动画建议搭配2方块渲染,降低卡顿"
+        },
         {
           "version": "1.7.0",
           "content": "加入免责声明,进行数轮优化\ntips:若开启空翻动画建议搭配2方块渲染,降低卡顿"
@@ -38,10 +42,14 @@
       ]
     },
     "xmrw5xring": {
-      "version": "1.7.0",
-      "file_name": "downloads/com.jump.tfdc.release.1.7.0.rpk",
-      "versionCode": 25,
+      "version": "1.8.3",
+      "file_name": "downloads/com.jump.tfdc.release.1.8.3.rpk",
+      "versionCode": 29,
       "updatelogs": [
+        {
+          "version": "1.8.3",
+          "content": "放大了暂停按钮\n修复了9/10/11初次打开显示异常的问题\n尝试优化\ntips:若开启空翻动画建议搭配2方块渲染,降低卡顿"
+        },
         {
           "version": "1.7.0",
           "content": "加入免责声明,进行数轮优化\ntips:若开启空翻动画建议搭配2方块渲染,降低卡顿"
@@ -53,10 +61,14 @@
       ]
     },
     "xmrw6": {
-      "version": "1.7.0",
-      "file_name": "downloads/com.jump.tfdc.release.1.7.0.rpk",
-      "versionCode": 25,
+      "version": "1.8.3",
+      "file_name": "downloads/com.jump.tfdc.release.1.8.3.rpk",
+      "versionCode": 29,
       "updatelogs": [
+        {
+          "version": "1.8.3",
+          "content": "放大了暂停按钮\n修复了9/10/11初次打开显示异常的问题\n尝试优化\ntips:若开启空翻动画建议搭配2方块渲染,降低卡顿"
+        },
         {
           "version": "1.7.0",
           "content": "加入免责声明,进行数轮优化\ntips:若开启空翻动画建议搭配2方块渲染,降低卡顿"
@@ -68,10 +80,14 @@
       ]
     },
     "xmb10nfc": {
-      "version": "1.7.0",
-      "file_name": "downloads/com.jump.tfdc.release.1.7.0.rpk",
-      "versionCode": 25,
+      "version": "1.8.3",
+      "file_name": "downloads/com.jump.tfdc.release.1.8.3.rpk",
+      "versionCode": 29,
       "updatelogs": [
+        {
+          "version": "1.8.3",
+          "content": "放大了暂停按钮\n修复了9/10/11初次打开显示异常的问题\n尝试优化\ntips:若开启空翻动画建议搭配2方块渲染,降低卡顿"
+        },
         {
           "version": "1.7.0",
           "content": "加入免责声明,进行数轮优化\ntips:若开启空翻动画建议搭配2方块渲染,降低卡顿"
@@ -83,10 +99,14 @@
       ]
     },
     "xmb10": {
-      "version": "1.7.0",
-      "file_name": "downloads/com.jump.tfdc.release.1.7.0.rpk",
-      "versionCode": 25,
+      "version": "1.8.3",
+      "file_name": "downloads/com.jump.tfdc.release.1.8.3.rpk",
+      "versionCode": 29,
       "updatelogs": [
+        {
+          "version": "1.8.3",
+          "content": "放大了暂停按钮\n修复了9/10/11初次打开显示异常的问题\n尝试优化\ntips:若开启空翻动画建议搭配2方块渲染,降低卡顿"
+        },
         {
           "version": "1.7.0",
           "content": "加入免责声明,进行数轮优化\ntips:若开启空翻动画建议搭配2方块渲染,降低卡顿"
@@ -98,10 +118,14 @@
       ]
     },
     "xmb10p": {
-      "version": "1.7.0",
-      "file_name": "downloads/com.jump.tfdc.release.1.7.0.rpk",
-      "versionCode": 25,
+      "version": "1.8.3",
+      "file_name": "downloads/com.jump.tfdc.release.1.8.3.rpk",
+      "versionCode": 29,
       "updatelogs": [
+        {
+          "version": "1.8.3",
+          "content": "放大了暂停按钮\n修复了9/10/11初次打开显示异常的问题\n尝试优化\ntips:若开启空翻动画建议搭配2方块渲染,降低卡顿"
+        },
         {
           "version": "1.7.0",
           "content": "加入免责声明,进行数轮优化\ntips:若开启空翻动画建议搭配2方块渲染,降低卡顿"
@@ -113,10 +137,14 @@
       ]
     },
     "xmb11": {
-      "version": "1.7.0",
-      "file_name": "downloads/com.jump.tfdc.release.1.7.0.rpk",
-      "versionCode": 25,
+      "version": "1.8.3",
+      "file_name": "downloads/com.jump.tfdc.release.1.8.3.rpk",
+      "versionCode": 29,
       "updatelogs": [
+        {
+          "version": "1.8.3",
+          "content": "放大了暂停按钮\n修复了9/10/11初次打开显示异常的问题\n尝试优化\ntips:若开启空翻动画建议搭配2方块渲染,降低卡顿"
+        },
         {
           "version": "1.7.0",
           "content": "加入免责声明,进行数轮优化\ntips:若开启空翻动画建议搭配2方块渲染,降低卡顿"
@@ -128,10 +156,14 @@
       ]
     },
     "xmb11nfc": {
-      "version": "1.7.0",
-      "file_name": "downloads/com.jump.tfdc.release.1.7.0.rpk",
-      "versionCode": 25,
+      "version": "1.8.3",
+      "file_name": "downloads/com.jump.tfdc.release.1.8.3.rpk",
+      "versionCode": 29,
       "updatelogs": [
+        {
+          "version": "1.8.3",
+          "content": "放大了暂停按钮\n修复了9/10/11初次打开显示异常的问题\n尝试优化\ntips:若开启空翻动画建议搭配2方块渲染,降低卡顿"
+        },
         {
           "version": "1.7.0",
           "content": "加入免责声明,进行数轮优化\ntips:若开启空翻动画建议搭配2方块渲染,降低卡顿"
@@ -143,10 +175,14 @@
       ]
     },
     "xmb9": {
-      "version": "1.7.0",
-      "file_name": "downloads/com.jump.tfdc.release.1.7.0.rpk",
-      "versionCode": 25,
+      "version": "1.8.3",
+      "file_name": "downloads/com.jump.tfdc.release.1.8.3.rpk",
+      "versionCode": 29,
       "updatelogs": [
+        {
+          "version": "1.8.3",
+          "content": "放大了暂停按钮\n修复了9/10/11初次打开显示异常的问题\n尝试优化\ntips:若开启空翻动画建议搭配2方块渲染,降低卡顿"
+        },
         {
           "version": "1.7.0",
           "content": "加入免责声明,进行数轮优化\ntips:若开启空翻动画建议搭配2方块渲染,降低卡顿"
@@ -158,10 +194,14 @@
       ]
     },
     "xmb9p": {
-      "version": "1.7.0",
-      "file_name": "downloads/com.jump.tfdc.release.1.7.0.rpk",
-      "versionCode": 25,
+      "version": "1.8.3",
+      "file_name": "downloads/com.jump.tfdc.release.1.8.3.rpk",
+      "versionCode": 29,
       "updatelogs": [
+        {
+          "version": "1.8.3",
+          "content": "放大了暂停按钮\n修复了9/10/11初次打开显示异常的问题\n尝试优化\ntips:若开启空翻动画建议搭配2方块渲染,降低卡顿"
+        },
         {
           "version": "1.7.0",
           "content": "加入免责声明,进行数轮优化\ntips:若开启空翻动画建议搭配2方块渲染,降低卡顿"
